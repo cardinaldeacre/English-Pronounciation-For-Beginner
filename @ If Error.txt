@@ -1,0 +1,3 @@
+if error when compiling try to turn off the antivirus 
+
+open the program's code by opening the file "english.dev"
